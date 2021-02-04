@@ -1,0 +1,50 @@
+Name on submission: Mohmmad Alwakeel
+Time of submission: Oct 4, 2020 7 36 AM
+
+This submission was automatically graded on 2020-10-09 at 02:33:51 EST.
+
+Compilation succesful.
+
+******************** Testing main() ********************
+Test case 1 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 2 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 3 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 4 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 5 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 6 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+
+******************** Testing countInt() ********************
+Test case 1 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 2 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 3 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 4 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 5 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 6 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+
+******************** Testing readInt() ********************
+Test case 1 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 2 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 3 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 4 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 5 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 6 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+
+******************** Testing compareInt() ********************
+Test case 1 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 2 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 3 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 4 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 5 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 6 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+
+******************** Testing writeInt() ********************
+Test case 1 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 2 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 3 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 4 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 5 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+Test case 6 passed. No memory errors. No leaked bytes. (+3.3333333333333335)
+
+******************** Grade ********************
+Early by 120-144 hours, 8% bonus.
+Final grade: 108.0%
